@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
-<p align="left"> <img src="" alt="jaatbreak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaatbreak&label=Profile%20views&color=0e75b6&style=flat" alt="jaatbreak" /> </p>
 
 - 📫 How to reach me **amankuma123123@gmail.com**
 
 - ⚡ Fun fact **I think I am crazy to build ci/cd**
-
-- <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*1mYyliE8xO9v1xoAqmfHtA.gif" style="width: 540px !important;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
