@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaatbreak&label=Profile%20views&color=0e75b6&style=flat" alt="jaatbreak" /> </p>
+<p align="left"> <img src="" alt="jaatbreak" /> </p>
 
 - 📫 How to reach me **amankuma123123@gmail.com**
 
