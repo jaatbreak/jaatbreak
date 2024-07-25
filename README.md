@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I think I am crazy to build ci/cd**
 
-<img  src="https://s2.ezgif.com/tmp/ezgif-2-99a6eef8ad.gif](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qepRAVdra-_S0BpOry2ZiA.gif">
+<img  src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qepRAVdra-_S0BpOry2ZiA.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-singh-b81962263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-singh-b81962263" height="30" width="40" /></a>
