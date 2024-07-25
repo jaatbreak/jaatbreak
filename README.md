@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I think I am crazy to build ci/cd**
 
-- <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*1mYyliE8xO9v1xoAqmfHtA.gif">
+- <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*1mYyliE8xO9v1xoAqmfHtA.gif" style="width: 540px !important;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
