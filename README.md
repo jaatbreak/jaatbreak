@@ -10,7 +10,7 @@
 <img  src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qepRAVdra-_S0BpOry2ZiA.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left"
-<a href="https://medium.com/" target="_blank" rel="noreferrer"> <img src="https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-small-2021.png" alt="aws" width="40" height="40"/> </a> 
+<a href="https://medium.com/@amansinghsonkh" target="_blank" rel="noreferrer"> <img src="https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-small-2021.png" alt="Medium" width="45" height="60"/> </a> 
 <a href="https://linkedin.com/in/aman-singh-b81962263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-singh-b81962263" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
