@@ -16,14 +16,14 @@
     <a href="https://linkedin.com/in/aman-singh-b81962263" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-singh-b81962263" height="30" width="40" />
     </a>
-    <a href="https://medium.com/@jaatbreak" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+    <a href="https://medium.com/@amansinghsonkh" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="35" width="45" />
     </a>
     <a href="https://instagram.com/jaatbreak" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaatbreak" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaatbreak" height="35" width="45" />
     </a>
-    <a href="https://wa.me/YOUR_NUMBER" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+    <a href="https://wa.me/8955503853" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="35" width="45" />
     </a>
 </p>
 
